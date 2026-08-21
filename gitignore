@@ -1,0 +1,17 @@
+# Secrets — nooit committen
+credentials.json
+token.json
+moneybird_token.txt
+
+# Persoonlijke data
+dagregisseur.db
+dagregisseur_eigentest.db
+*.db
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# (frontend-regels volgen later, als node_modules etc. aan de beurt zijn)
